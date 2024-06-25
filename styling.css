@@ -1,0 +1,26 @@
+/*h2{
+    text-shadow: 5px 5px 3px red, -5px -5px 3px blue;
+}
+#box1{
+    width: 100px;
+    height: 100px;
+    background-color: antiquewhite;
+    box-shadow: 3px 3px 5px ;
+}*/
+
+body{
+    margin: 0px;
+}
+.box{
+    border: 5px solid;
+    font-size: 3em;
+    width: 250 px;
+    height: 250 px;
+}
+#box1{
+    background-color: aqua;
+    margin-left: auto;
+}
+#box2{
+    background-color: red;
+}

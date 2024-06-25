@@ -1,0 +1,15 @@
+/*.box{
+    border: 2px solid;
+    padding: 20px;
+    box-sizing: border-box;
+    height: auto;
+    width: 50%;
+    float: left;
+}*/
+
+#box1{
+    width: 200px;
+    height: 200px;
+    background-color: aquamarine;
+    position: relative;
+}
